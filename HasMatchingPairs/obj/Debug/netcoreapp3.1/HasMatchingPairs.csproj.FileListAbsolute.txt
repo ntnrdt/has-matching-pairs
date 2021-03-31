@@ -1,0 +1,12 @@
+/Users/natandutra/Projects/Exp/has-matching-pairs/HasMatchingPairs/bin/Debug/netcoreapp3.1/HasMatchingPairs.deps.json
+/Users/natandutra/Projects/Exp/has-matching-pairs/HasMatchingPairs/bin/Debug/netcoreapp3.1/HasMatchingPairs.runtimeconfig.json
+/Users/natandutra/Projects/Exp/has-matching-pairs/HasMatchingPairs/bin/Debug/netcoreapp3.1/HasMatchingPairs.runtimeconfig.dev.json
+/Users/natandutra/Projects/Exp/has-matching-pairs/HasMatchingPairs/bin/Debug/netcoreapp3.1/HasMatchingPairs.dll
+/Users/natandutra/Projects/Exp/has-matching-pairs/HasMatchingPairs/bin/Debug/netcoreapp3.1/HasMatchingPairs.pdb
+/Users/natandutra/Projects/Exp/has-matching-pairs/HasMatchingPairs/obj/Debug/netcoreapp3.1/HasMatchingPairs.csprojAssemblyReference.cache
+/Users/natandutra/Projects/Exp/has-matching-pairs/HasMatchingPairs/obj/Debug/netcoreapp3.1/HasMatchingPairs.AssemblyInfoInputs.cache
+/Users/natandutra/Projects/Exp/has-matching-pairs/HasMatchingPairs/obj/Debug/netcoreapp3.1/HasMatchingPairs.AssemblyInfo.cs
+/Users/natandutra/Projects/Exp/has-matching-pairs/HasMatchingPairs/obj/Debug/netcoreapp3.1/HasMatchingPairs.csproj.CoreCompileInputs.cache
+/Users/natandutra/Projects/Exp/has-matching-pairs/HasMatchingPairs/obj/Debug/netcoreapp3.1/HasMatchingPairs.dll
+/Users/natandutra/Projects/Exp/has-matching-pairs/HasMatchingPairs/obj/Debug/netcoreapp3.1/HasMatchingPairs.pdb
+/Users/natandutra/Projects/Exp/has-matching-pairs/HasMatchingPairs/obj/Debug/netcoreapp3.1/HasMatchingPairs.genruntimeconfig.cache
